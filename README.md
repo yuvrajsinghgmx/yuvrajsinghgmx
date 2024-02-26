@@ -1,10 +1,10 @@
 ## Hey there! I'm Yuvraj 👋
 
 I am a Software Developer who ❤ contributing to open source.
-
+ 
 ### Technical Skills
 
-<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring%20Boot-green?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/-Android Studio-orange?style=flat&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin%20Boot-green?style=flat&logo=kotlin&logoColor=white"> <!--<img src="https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white"> 
 <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-%23000000?style=flat&logo=apache-kafka&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular&logoColor=white"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB&logoColor=white">
@@ -12,7 +12,7 @@ I am a Software Developer who ❤ contributing to open source.
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">--> <br />
 
 ### My Interests
 
