@@ -4,7 +4,7 @@ I am a Software Developer who ❤ contributing to open source.
  
 ### Technical Skills
 
-<img src="https://img.shields.io/badge/-Android Studio-orange?style=flat&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <!--<img src="https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/-Android Studio-orange?style=flat&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <!--<img src="https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white"> 
 <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-%23000000?style=flat&logo=apache-kafka&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular&logoColor=white"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB&logoColor=white">
@@ -25,7 +25,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <br>
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Yuvraj Singh)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Qomfortzone)
 </div>
 
 <div align="center">
