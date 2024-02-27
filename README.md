@@ -15,19 +15,23 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%" >
 <br>
-<div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Qomfortzone)
-</div>
 
 <div align="center">
  
 ### My Most used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact)
+[![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
 </div>
 
 <div align="center">
+
+<div align="center">
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Qomfortzone)
+</div>
+
 
 ### Contact Me
 
