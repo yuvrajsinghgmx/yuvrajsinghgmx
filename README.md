@@ -19,7 +19,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact)
 </div>
 
-<div align="center">
+<div align="left">
 
 [![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
 </div>
