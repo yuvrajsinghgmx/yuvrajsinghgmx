@@ -25,7 +25,8 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 
 <div align="center">
- [![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
+
+[![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
 </div>
 
 <div align="center">
