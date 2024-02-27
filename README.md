@@ -19,15 +19,17 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact)
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%" >
-<br>
-
-
 <div align="center">
 
 [![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
 </div>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%" align="right" >
+<br>
+
+
+
 
 <div align="center">
 
