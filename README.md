@@ -1,36 +1,40 @@
-# Hey there! I'm Yuvraj 👋
+# Hello World! I'm Yuvraj 👋
 
-I am a passionate Software Developer who loves contributing to open source.
+Welcome to my code haven, where passion meets pixels.
 
-## 🚀 Technical Skills
+## 🚀 Technical Wizardry
 
-<img src="https://img.shields.io/badge/-Android%20Studio-orange?style=flat&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android%20Studio-orange?style=flat&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+</p>
 
-## 💡 My Interests
+## 💡 My Digital Playground
 
 Android Development | Web development | Competitive Programming | Open Source Contribution
 
-## 📊 My Stats
+## 📊 The Chronicles of My Digital Realm
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact">
-</div>
+</p>
 
-<div align="left">
+<p align="center">
   <img src="https://stats.quine.sh/qomfortzone/github?theme=dark">
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%">
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%" align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%" align="right">
-</div>
-<br>
 
-<div align="center">
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Qomfortzone)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Qomfortzone.Qomfortzone)
 </div>
 
-## 📬 Contact Me
+## 📬 Connect with the Sorcerer
 
 <a href="https://github.com/Qomfortzone"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> 
 <a href="https://twitter.com/yuvrajsinghgmx" rel="nofollow"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
