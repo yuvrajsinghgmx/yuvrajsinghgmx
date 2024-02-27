@@ -12,17 +12,20 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 
 ### My Stats
+
+<div align="center">
+ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact)
+</div>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%" >
 <br>
 
 
 <div align="center">
- 
-### My Most used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact)
-[![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
+ [![Yuvrajs's GitHub | Stats](https://stats.quine.sh/qomfortzone/github?theme=dark)](https://quine.sh)
 </div>
 
 <div align="center">
