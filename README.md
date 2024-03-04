@@ -5,13 +5,29 @@ Welcome to my code haven, where passion meets pixels.
 ## 🚀 Technical Wizardry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C%20%26%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff">
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+  <a href="https://en.cppreference.com/">
+    <img src="https://img.shields.io/badge/C-659ad2?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
+  </a>
+  <a href="https://www.cplusplus.com/">
+    <img src="https://img.shields.io/badge/C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
+  </a>
 </p>
+
 
 
 ## 💡 My Digital Playground
