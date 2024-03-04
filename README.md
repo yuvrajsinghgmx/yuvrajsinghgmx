@@ -5,34 +5,29 @@ Welcome to my code haven, where passion meets pixels.
 ## 🚀 Technical Wizardry
 
 <p align="center">
-  <a href="https://developer.android.com/studio" target="_blank">
+  <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   </a>
-  <a href="https://kotlinlang.org/" target="_blank">
+  <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   </a>
-  <a href="https://en.cppreference.com/" target="_blank">
+  <a href="https://en.cppreference.com/">
     <img src="https://img.shields.io/badge/C-659ad2?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
   </a>
-  <a href="https://www.cplusplus.com/" target="_blank">
+  <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++">
   </a>
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Development-blue?style=for-the-badge&logo=android&logoColor=white" alt="Android Development">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Development-red?style=for-the-badge&logo=webcomponents.org&logoColor=white" alt="Web Development">
-  </a>
 </p>
+
 
 
 
