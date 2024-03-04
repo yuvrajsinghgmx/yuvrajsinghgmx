@@ -5,13 +5,14 @@ Welcome to my code haven, where passion meets pixels.
 ## 🚀 Technical Wizardry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android%20Studio-orange?style=flat&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-JS-yellow?style=flat&logo=js&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/C%20%26%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff">
 </p>
+
 
 ## 💡 My Digital Playground
 
