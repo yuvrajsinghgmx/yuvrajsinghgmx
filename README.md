@@ -2,6 +2,8 @@
 
 Welcome to my code haven, where passion meets pixels.
 
+<a href="https://qomfortzone.github.io">Discover more on my website!</a>
+
 ## 🚀 Technical Wizardry
 
 <p align="center">
