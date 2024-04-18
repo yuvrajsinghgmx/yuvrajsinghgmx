@@ -6,32 +6,33 @@ Welcome to my code haven, where passion meets pixels.
 
 ## 🚀 Technical Wizardry
 
-<p align="center">
-  <a href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://developer.android.com/studio" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <a href="https://kotlinlang.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   </a>
-  <a href="https://en.cppreference.com/">
-    <img src="https://img.shields.io/badge/C-659ad2?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
+  <a href="https://en.cppreference.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </a>
-  <a href="https://www.cplusplus.com/">
-    <img src="https://img.shields.io/badge/C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++">
+  <a href="https://www.cplusplus.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="FireBase">
+  <a href="https://firebase.google.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   </a>
-</p>
+</div>
+
 
 
 
