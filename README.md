@@ -28,6 +28,9 @@ Welcome to my code haven, where passion meets pixels.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
   </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="FireBase">
+  </a>
 </p>
 
 
