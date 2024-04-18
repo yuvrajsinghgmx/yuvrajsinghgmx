@@ -53,7 +53,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
 
 ## 📬 Connect with the Sorcerer
 
