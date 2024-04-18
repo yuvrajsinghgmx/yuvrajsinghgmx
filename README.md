@@ -1,4 +1,4 @@
-# Hello World! I'm Yuvraj 👋
+# Hello World! I'm Yuvraj 
 
 Welcome to my code haven, where passion meets pixels.
 
