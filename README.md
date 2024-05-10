@@ -1,4 +1,4 @@
-# Hello World! I'm Yuvraj 
+# Hello World! I'm Yuvraj <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/Hi.gif" width="30">
 
 Welcome to my code haven, where passion meets pixels.
 
@@ -12,6 +12,9 @@ Welcome to my code haven, where passion meets pixels.
   </a>
   <a href="https://kotlinlang.org/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+  <a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
   <a href="https://en.cppreference.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -33,27 +36,20 @@ Welcome to my code haven, where passion meets pixels.
   </a>
 </div>
 
-
-
-
-
-
 ## 💡 My Digital Playground
 
-Android Development | Web development | Competitive Programming | Open Source Contribution
+Android Development | Web development | Competitive Programming | Open Source Contributions
 
 ## 📊 The Chronicles of My Digital Realm
 
+<img>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact">
+  <img align="left" width="35%" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/yuvrajisbusy.gif">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=tokyonight&layout=compact">
+  <img width="48%%" src="https://stats.quine.sh/qomfortzone/github?theme=dark">
 </p>
-
-<p align="center">
-  <img src="https://stats.quine.sh/qomfortzone/github?theme=dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%">
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=tokyonight" width="48%">
 </p>
 
@@ -62,9 +58,6 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ## 📬 Connect with the Sorcerer
 
 <p align="center">
-  <a href="https://github.com/Qomfortzone">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
   <a href="https://twitter.com/yuvrajsinghgmx" rel="nofollow">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
@@ -75,3 +68,5 @@ Android Development | Web development | Competitive Programming | Open Source Co
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
 </p>
+
+<p align="center" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:qomfortzone@gmail.com">Click here to fire off an email.</a> 🕊️</p>
