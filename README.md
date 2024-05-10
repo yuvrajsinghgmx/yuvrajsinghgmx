@@ -1,5 +1,5 @@
 # Hello World! I'm Yuvraj <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/Hi.gif" width="30">
-|<img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 100%; height:60%;">|
+|<img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="height:60%;">|
 |--|
 |Welcome to my code haven, where passion meets pixels.|
 
