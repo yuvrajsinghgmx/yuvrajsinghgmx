@@ -42,8 +42,18 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 ## 📊 The Chronicles of My Digital Realm
 
-| <div style="width: 50%;"> <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" width="100%"> <img src="https://stats.quine.sh/qomfortzone/github?theme=dark" width="100%"> <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif"> </div> | <div style="width: 50%;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" width="100%"> <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" width="100%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" width="100%"> </div> |
-|---|---|
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" width="100%">
+        <img src="https://stats.quine.sh/qomfortzone/github?theme=dark" width="100%">
+        <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif">
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" width="100%">
+    </div>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
 
