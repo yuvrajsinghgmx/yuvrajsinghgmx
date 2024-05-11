@@ -68,3 +68,5 @@ Android Development | Web development | Competitive Programming | Open Source Co
 </p>
 
 <p align="center" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:qomfortzone@gmail.com">Click here to fire off an email.</a> 🕊️</p>
+
+  <img align="center" width="100%" height="200px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif">
