@@ -43,10 +43,12 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 ## 📊 The Chronicles of My Digital Realm
 
-| <div style="width: calc(100% / 6);"><img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 50%;"></div> | <div style="width: calc(100% / 6);"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" style="width: 100%;"></div> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <div style="width: calc(100% / 6);"><img src="https://stats.quine.sh/qomfortzone/github?theme=dark" style="width: 50%;"></div>                               | <div style="width: calc(100% / 6);"><img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" style="width: 100%;"></div> |
-| <div style="width: calc(100% / 6);"><img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif" style="width: 50%;"></div>   | <div style="width: calc(100% / 6);"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" style="width: 100%;"></div>      |
+<img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 50%; float: left;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" style="width: 50%; float: right;">
+<img src="https://stats.quine.sh/qomfortzone/github?theme=dark" style="width: 50%; float: left;">
+<img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" style="width: 50%; float: right;">
+<img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif" style="width: 50%; float: left;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" style="width: 50%; float: right;">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
