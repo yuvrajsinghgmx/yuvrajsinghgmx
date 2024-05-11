@@ -39,26 +39,31 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 ## 📊 The Chronicles of My Digital Realm
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="width: 48%;">
-        <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 100%;">
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" style="width: 100%;">
-    </div>
-    <div style="width: 48%;">
-        <img src="https://stats.quine.sh/qomfortzone/github?theme=dark" style="width: 100%;">
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" style="width: 100%;">
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif" style="width: 100%;">
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" style="width: 100%;">
-    </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <div style="width: 48%;">
+    <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 100%;">
+  </div>
+  <div style="width: 48%; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" style="width: 100%;">
+  </div>
+
+  <div style="width: 48%;">
+    <img src="https://stats.quine.sh/qomfortzone/github?theme=dark" style="width: 100%;">
+  </div>
+  <div style="width: 48%; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" style="width: 100%;">
+  </div>
+
+  <div style="width: 48%;">
+    <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif" style="width: 100%;">
+  </div>
+  <div style="width: 48%; text-align: right;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" style="width: 100%;">
+  </div>
+
 </div>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
