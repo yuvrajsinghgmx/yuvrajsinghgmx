@@ -40,9 +40,9 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ## 📊 The Chronicles of My Digital Realm
 
 <p align="center">
-  <img align="left" width="35%" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/tkthao219-bubududu.gif">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast">
-  <!-- <img width="48%%" src="https://stats.quine.sh/qomfortzone/github?theme=dark"> -->
+  <img align="left" width="35%" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/yuvrajisbusy.gif">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact">
+  <img width="48%%" src="https://stats.quine.sh/qomfortzone/github?theme=dark">
 </p>
 <p align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" width="48%">
