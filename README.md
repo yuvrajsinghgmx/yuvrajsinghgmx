@@ -7,17 +7,17 @@
 
 ## 🚀 Technical Wizardry
 
-<p style="display: inline-block; width: 100%; margin: 0;">
+<p>
     <img align="left" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif" style="width: 48%;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact" style="width: 48%;">
 </p>
 
-<p style="display: inline-block; width: 100%; margin: 0;">
+<p>
     <img align="left" src="https://stats.quine.sh/qomfortzone/github?theme=dark" style="width: 48%;">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" style="width: 48%;">
 </p>
 
-<p style="display: inline-block; width: 100%; margin: 0;">
+<p>
     <img align="left" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonejet.gif" style="width: 48%;">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" style="width: 48%;">
 </p>
