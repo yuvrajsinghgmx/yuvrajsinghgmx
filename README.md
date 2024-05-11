@@ -1,4 +1,5 @@
 # Hello World! I'm Yuvraj <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/Hi.gif" width="30">
+
 <a href="https://qomfortzone.github.io">Discover more on my website!</a>
 
 ## 🚀 Technical Wizardry
@@ -49,8 +50,6 @@ Android Development | Web development | Competitive Programming | Open Source Co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" width="48%">
 </p>
 
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
 
 ## 📬 Connect with the Sorcerer
@@ -70,3 +69,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <p align="center" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:qomfortzone@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
   <img align="center" width="100%" height="200px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif">
+<p align="center">
+  🌟 Explore my awesome repositories below! 👇
+</p>
+ <img align="center" width="140px" height="140px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzoneheart.gif">
