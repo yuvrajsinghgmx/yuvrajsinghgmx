@@ -14,6 +14,12 @@
   <a href="https://www.java.com/">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
+    <a href="https://dart.dev/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://flutter.dev/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
   <a href="https://en.cppreference.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </a>
@@ -72,4 +78,6 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <p align="center">
   🌟 Explore my awesome repositories below! 👇
 </p>
+<div align="center">
  <img align="center" width="140px" height="140px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzoneheart.gif">
+ </div>
