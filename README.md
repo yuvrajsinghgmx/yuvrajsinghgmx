@@ -49,7 +49,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <p align="center">
   <img align="left" width="35%" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/yuvrajisbusy.gif">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact">
-  <img width="48%%" src="https://stats.quine.sh/qomfortzone/github?theme=dark">
+  <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap">
 </p>
 <p align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" width="48%">
