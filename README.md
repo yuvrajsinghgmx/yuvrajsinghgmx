@@ -1,6 +1,6 @@
-# Hi! I'm Yuvraj <img src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/Hi.gif" width="30">
+# Hi! I'm Yuvraj <img src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/Hi.gif" width="30">
 
-<a href="https://qomfortzone.github.io">Discover more on my website!</a>
+<a href="https://yuvrajsinghgmx.github.io">Discover more on my website!</a>
 
 ## 🚀 Technical Wizardry
 
@@ -47,16 +47,16 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ## 📊 The Chronicles of My Digital Realm
 
 <p align="center">
-  <img align="left" width="35%" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/yuvrajisbusy.gif">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qomfortzone&show_icons=true&theme=highcontrast&layout=compact">
+  <img align="left" width="35%" src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/yuvrajisbusy.gif">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast&layout=compact">
   <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap">
 </p>
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Qomfortzone&show_icons=true&theme=highcontrast" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qomfortzone&theme=highcontrast" width="48%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=qomfortzone&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuvrajsinghgmx&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p>
 
 ## 📬 Connect with the Sorcerer
 
@@ -64,20 +64,17 @@ Android Development | Web development | Competitive Programming | Open Source Co
   <a href="https://twitter.com/yuvrajsinghgmx" rel="nofollow">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/Qomfortzone/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/yuvrajsinghgmx/" rel="nofollow">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
-  <a href="https://discord.com/users/qomfortzone" rel="nofollow">
+  <a href="https://discord.com/users/yuvrajsinghgmx" rel="nofollow">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
 </p>
 
-<p align="center" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:qomfortzone@gmail.com">Click here to fire off an email.</a> 🕊️</p>
+<p align="center" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
-  <img align="center" width="100%" height="200px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzonebusy.gif">
+
 <p align="center">
   🌟 Explore my awesome repositories below! 👇
 </p>
-<div align="center">
- <img align="center" width="140px" height="140px" src="https://github.com/Qomfortzone/Qomfortzone/blob/main/Resources/qomfortzoneheart.gif">
- </div>
