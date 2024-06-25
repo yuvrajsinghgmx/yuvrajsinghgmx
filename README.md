@@ -3,6 +3,7 @@
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 - Working on Flutter🍃 and JavaScript 🍁 Currently. 
+- JavaScript 😻, Python 💌, Flutter ❤️‍🔥
 - Love Contributing to OpenSource 🎔. 
 - Contact me for working together on a Flutter Project. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
