@@ -60,12 +60,12 @@ Android Development | Web development | Competitive Programming | Open Source Co
 ## 📊 The Chronicles of My Digital Realm
 
 <p align="center">
-  <!-- <img align="left" width="35%" src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/yuvrajisbusy.gif"> -->
+  <!-- <img align="left" width="35%" src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/yuvrajisbusy.gif"> 
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast&layout=compact">
-  <!-- <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap"> -->
+   <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap"> -->
 </p>
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="48%">
+<p style="margin-left: 15%;margin-right : 15%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="100%">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%"> -->
 </p>
 <!-- 
