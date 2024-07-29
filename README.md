@@ -65,7 +65,7 @@ Android Development | Web development | Competitive Programming | Open Source Co
    <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap"> -->
 </p>
 <p style="margin-left: 15%;margin-right : 15%">
-  <img  src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="100%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="60%">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%"> -->
 </p>
 <!-- 
