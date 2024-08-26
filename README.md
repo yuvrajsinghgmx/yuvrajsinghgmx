@@ -1,17 +1,15 @@
 # Hi! I'm Yuvraj <img src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/Hi.gif" width="30">
+
 <br>
-<a href="https://yuvrajsinghgmx.github.io/" >Visit My Website!</a>
+<a href="https://me.yuvrajsingh.tech/" >Visit My Website!</a>
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 - Currently Learning App Development and DSA.
 - Proficent in Kotlin 😻, JavaScript 💌, Dart ❤️‍🔥.
-- Love Contributing to OpenSource 🎔. 
-- Contact me for working together on  Android & Web Projects. 🫱🏻‍🫲🏼
+- Love Contributing to OpenSource 🎔.
+- Contact me for working together on Android & Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
 - 🧑‍🎨
-
-
-
 
 <!-- <a href="https://yuvrajsinghgmx.github.io">Discover more on my website!</a> -->
 
@@ -72,7 +70,6 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsinghgmx&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p> -->
 <!-- 
 ## 📬 Connect with the Sorcerer
-
 
   <a href="https://twitter.com/yuvrajsinghgmx" rel="nofollow">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
