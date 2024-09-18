@@ -15,7 +15,7 @@
 
 ## 🚀 Technologies in My Arsenal
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://developer.android.com/studio" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   </a>
