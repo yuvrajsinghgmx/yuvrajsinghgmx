@@ -5,7 +5,7 @@
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 - Currently Learning App Development and DSA.
-- Proficent in Kotlin 😻, JavaScript 💌, Dart ❤️‍🔥.
+- Proficent in Kotlin 😻, JavaScript 💌, Python ❤️‍🔥.
 - Love Contributing to OpenSource 🎔.
 - Contact me for working together on Android & Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
@@ -13,7 +13,7 @@
 
 <!-- <a href="https://yuvrajsinghgmx.github.io">Discover more on my website!</a> -->
 
-## 🚀 Technical Wizardry
+## 🚀 Technologies in My Arsenal
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://developer.android.com/studio" style="text-decoration: none;">
@@ -49,6 +49,28 @@
   <a href="https://firebase.google.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   </a>
+  <a href="https://aws.amazon.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white" alt="AWS">
+</a>
+<a href="https://nginx.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+</a>
+<a href="https://gunicorn.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gunicorn-0B4B6E?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn">
+</a>
+<a href="https://flask.palletsprojects.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+</a>
+<a href="https://www.python.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://developer.android.com/jetpack/compose" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-03DAC5?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
+</a>
+<a href="https://www.mysql.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</a>
+
 </div>
 
 ## 💡 My Digital Playground
