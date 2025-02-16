@@ -1,7 +1,7 @@
 # Hi! I'm Yuvraj <img src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/Hi.gif" width="30">
 
 <br>
-<a href="https://me.yuvrajsingh.tech/" >Visit My Website!</a>
+<a href="https://yuvrajsingh.tech/" >Visit My Website!</a>
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 - Currently Learning App Development and DSA.
