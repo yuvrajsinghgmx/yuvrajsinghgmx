@@ -4,81 +4,17 @@
 <a href="https://yuvrajsingh.tech/" >Visit My Website!</a>
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
-- Currently Learning App Development and DSA.
-- Proficent in Kotlin 😻, JavaScript 💌, Python ❤️‍🔥.
+<!-- - Currently Learning App Development and DSA. -->
+- Proficent in Kotlin 😻, JetPack Compose ✈️, Python🐍 , Django ❤️‍🔥.
 - Love Contributing to OpenSource 🎔.
-- Contact me for working together on Android & Web Projects. 🫱🏻‍🫲🏼
+- Contact me for working together on Android & Open Source. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
-- 🧑‍🎨
+- 🧑‍🎨 🎸
+
+
+
 
 <!-- <a href="https://yuvrajsinghgmx.github.io">Discover more on my website!</a> -->
-
-## 🚀 Technologies in My Arsenal
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://developer.android.com/studio" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  </a>
-  <a href="https://kotlinlang.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  </a>
-  <a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  </a>
-    <a href="https://dart.dev/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  </a>
-  <a href="https://flutter.dev/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
-  <a href="https://en.cppreference.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://www.cplusplus.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </a>
-  <a href="https://firebase.google.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  </a>
-  <a href="https://aws.amazon.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white" alt="AWS">
-</a>
-<a href="https://nginx.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-</a>
-<a href="https://gunicorn.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gunicorn-0B4B6E?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn">
-</a>
-<a href="https://flask.palletsprojects.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</a>
-<a href="https://www.python.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</a>
-<a href="https://developer.android.com/jetpack/compose" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-03DAC5?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
-</a>
-<a href="https://www.mysql.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</a>
-
-</div>
-
-## 💡 My Digital Playground
-
-Android Development | Web development | Competitive Programming | Open Source Contributions
-
-## 📊 The Chronicles of My Digital Realm
-
 <p align="center">
   <!-- <img align="left" width="35%" src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/yuvrajisbusy.gif"> 
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast&layout=compact">
