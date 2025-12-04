@@ -20,10 +20,10 @@
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast&layout=compact">
    <img width="48%%" src="https://leetcard.jacoblin.cool/qomfortzone?theme=dark&font=Baloo%20Bhaijaan%202&ext=heatmap"> -->
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="60%">
+<!-- <p align="center"> -->
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="60%"> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%"> -->
-</p>
+<!-- </p> -->
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsinghgmx&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p> -->
 <!-- 
