@@ -22,7 +22,7 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghgmx&show_icons=true&theme=highcontrast" width="60%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghgmx&theme=highcontrast" width="48%"> -->
 </p>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsinghgmx&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Singh" /> </p> -->
